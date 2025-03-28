@@ -1,1 +1,3 @@
-# DS_project_using_AWS_sagemaker
+# Medical insurance predictor - 
+  
+    - Deployed using AWS Sagemaker
